@@ -1,9 +1,6 @@
 # worker-app
 React Redux Toolkit with Web Workers and Service Workers
 
-
-React Redux Toolkit with Web Workers and Service Workers
-
 Overview
 
 This project demonstrates the use of React with Redux Toolkit to manage state, along with Web Workers and Service Workers to improve performance and offline capabilities.
